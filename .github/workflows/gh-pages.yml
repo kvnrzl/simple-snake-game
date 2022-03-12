@@ -35,4 +35,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: se-be4-kelompok4/
+          publish_dir: se-be4-kelompok4/snake.html
